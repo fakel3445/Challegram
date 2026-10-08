@@ -81,7 +81,7 @@ QmlApplicationViewer::QmlApplicationViewer(QObject *parent) :
     QQuickView(dynamic_cast<QWindow*>(parent)),
 #else
 QmlApplicationViewer::QmlApplicationViewer(QObject *parent) :
-    QDeclarativeView(parent),
+    QDeclarativeView(qobject_cast<QWidget*>(parent)),
 #endif
     m_d(new QmlApplicationViewerPrivate)
 {
