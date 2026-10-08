@@ -1,6 +1,6 @@
 # Challegram
 
-Challegram - Универсальный клиент Telegram.
+Challegram - Универсальный клиент Telegram, основанный на коде Kutegram. 
 
 # Поддерживаемые платформы
 
