@@ -1,7 +1,7 @@
-# Monogram
+# Challegram
 
-Monogram - Универсальный клиент Telegram.
+Challegram - Универсальный клиент Telegram.
 
 # Поддерживаемые платформы
 
-Windows XP, Android 2.3.0, Windows Phone 8.1, Windows RT, Web Client.
+Windows XP и выше, Android 2.3.0 и выше, Windows Phone 8.1 и выше, Windows RT, Web Client.
